@@ -4,7 +4,12 @@
 - Track: Demand Forecasting and Cultural Signal Analytics
 - Application Name: The 'Vibe-Shift' Trend Forecaster
 - Team Members:
-  - Lead Developer / ML Engineer: Lakshana G S ([@lakshana-gs](https://github.com/lakshana-gs))
+    - Member 1: @lakshana-gs (Lakshana G S)
+    - Member 2: @Mehaavarshinicodes (Mehaavarshini J)
+    - Member 3: @Tejaaazz07 (Tejas SK)
+    - Member 4: @priyadharshni2007 (Priyadharshini S)
+    - Member 5: @rudhra0925-wq (Rithika H)
+    - Member 6: @shirleytrinita008 (Shirley Trinita S)
 
 ---
 
